@@ -22,7 +22,7 @@ This project aims to develop a comprehensive Social Media Marketing Panel using 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/smm-panel.git`
+1. Clone the repository: `git clone https://github.com/rohitashsingh89/smmpanel.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Set up MongoDB and configure database settings in `settings.py`.
 4. Run migrations: `python manage.py migrate`
