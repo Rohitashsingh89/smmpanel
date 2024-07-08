@@ -1,5 +1,7 @@
 # Social Media Marketing (SMM) Panel Project
 
+![image](https://github.com/Rohitashsingh89/smmpanel/assets/93479842/8547770e-e197-4004-9ff2-421c8d402a63)
+
 ## Overview
 
 This project aims to develop a comprehensive Social Media Marketing Panel using Django and MongoDB. The panel will facilitate efficient management and growth of social media accounts through analytics, automation, and scheduling features.
